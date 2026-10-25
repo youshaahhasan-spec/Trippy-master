@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/youshaahhasan-spec/Trippy-master/static/css/main.8d537fd4.css",
+    "main.js": "/youshaahhasan-spec/Trippy-master/static/js/main.574029d4.js",
+    "static/media/3.jpg": "/youshaahhasan-spec/Trippy-master/static/media/3.84d5235cc693e15661d6.jpg",
+    "static/media/2.jpg": "/youshaahhasan-spec/Trippy-master/static/media/2.bbb41348bb839b9124d8.jpg",
+    "static/media/1.jpg": "/youshaahhasan-spec/Trippy-master/static/media/1.509d4d795248ac9962f3.jpg",
+    "static/media/12.jpg": "/youshaahhasan-spec/Trippy-master/static/media/12.257c5311e1cae5638aad.jpg",
+    "static/media/8.jpg": "/youshaahhasan-spec/Trippy-master/static/media/8.9d1ddd2ceb0e8def6f48.jpg",
+    "static/media/5.jpg": "/youshaahhasan-spec/Trippy-master/static/media/5.46b372902997b3fbd648.jpg",
+    "static/media/6.jpg": "/youshaahhasan-spec/Trippy-master/static/media/6.c405c8228d51cdef5d0f.jpg",
+    "static/media/night.jpg": "/youshaahhasan-spec/Trippy-master/static/media/night.ac6d287d5d0014553b87.jpg",
+    "index.html": "/youshaahhasan-spec/Trippy-master/index.html",
+    "main.8d537fd4.css.map": "/youshaahhasan-spec/Trippy-master/static/css/main.8d537fd4.css.map",
+    "main.574029d4.js.map": "/youshaahhasan-spec/Trippy-master/static/js/main.574029d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d537fd4.css",
+    "static/js/main.574029d4.js"
+  ]
+}
